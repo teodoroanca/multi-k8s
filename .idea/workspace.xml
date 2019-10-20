@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a8f0987-b834-4c2f-b425-3ac8bb0b5703" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/Dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/Dockerfile.dev" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/nginx/default.conf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/Fib.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/OtherPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
@@ -22,7 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
   </component>
   <component name="ProjectId" id="1SRCimmONhZZIB8mxxRfP1goaJS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -62,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571517150310</updated>
       <workItem from="1571517153271" duration="11051000" />
-      <workItem from="1571565439144" duration="18532000" />
+      <workItem from="1571565439144" duration="18806000" />
     </task>
     <servers />
   </component>
