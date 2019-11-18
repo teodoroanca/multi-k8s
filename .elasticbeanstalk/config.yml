@@ -1,0 +1,5 @@
+branch-defaults:
+  master:
+    environment: MultiDocker-env
+global:
+  profile: eb-cli
