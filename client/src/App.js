@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Fib calculator kubernetes sal 
+            Fib calculator kubernetes sal
           </a>
           <Link to="/">
             Homeeee

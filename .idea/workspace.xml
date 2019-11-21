@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a8f0987-b834-4c2f-b425-3ac8bb0b5703" name="Default Changelist" comment="" />
+    <list default="true" id="6a8f0987-b834-4c2f-b425-3ac8bb0b5703" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/k8s/certificate.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k8s/issuer.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +68,8 @@
       <workItem from="1573684559953" duration="74000" />
       <workItem from="1574206666435" duration="782000" />
       <workItem from="1574237650144" duration="3467000" />
-      <workItem from="1574278770498" duration="5468000" />
+      <workItem from="1574278770498" duration="8139000" />
+      <workItem from="1574337521063" duration="3882000" />
     </task>
     <servers />
   </component>
